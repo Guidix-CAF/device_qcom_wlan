@@ -17,7 +17,7 @@
 #
 #
 
-TARGET_WLAN_CHIP := kiwi_v2 peach
+TARGET_WLAN_CHIP := kiwi_v2 peach peach_v2
 
 WLAN_CHIPSET := qca_cld3
 
